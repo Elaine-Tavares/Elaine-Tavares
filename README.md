@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá, eu sou a Elaine! 👋
 
-<!--
-**Elaine-Tavares/Elaine-Tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💜 Apaixonada por tecnologia e por transformar ideias em soluções digitais.  
+🎯 Atualmente focada no desenvolvimento Front-End com React e Vue.js.  
+🚀 Em constante aprendizado e evolução — motivada por desafios e pela vontade de impactar positivamente com o código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que utilizo:
+HTML
+CSS
+JavaScript
+React
+Vue.js
+GitHUb
+
+---
+
+### 🌐 Portfólio Web:
+https://portfolioelainetavares.vercel.app/ — conheça mais sobre mim, meus projetos e trajetória.
+
+---
+
+### 📫 Vamos nos conectar?
+- ✉️ elainetavares.developer@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/elaine-tavares-b5797b1b0/
+
+---
+
+⭐ Obrigada por visitar meu perfil!  
+Se gostar de algum projeto, sinta-se à vontade para dar uma ⭐, abrir uma *issue* ou contribuir.
