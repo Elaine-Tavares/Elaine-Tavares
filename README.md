@@ -7,12 +7,7 @@ Olá, eu sou a Elaine! 👋
 ---
 
 ### 🛠️ Tecnologias que utilizo:
-HTML
-CSS
-JavaScript
-React
-Vue.js
-GitHUb
+HTML | CSS | JavaScript | React | Vue | GitHub
 
 ---
 
