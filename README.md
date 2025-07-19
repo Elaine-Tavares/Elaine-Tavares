@@ -1,18 +1,20 @@
 Olá, eu sou a Elaine! 👋
 
-💜 Apaixonada por tecnologia e por transformar ideias em soluções digitais.  
-🎯 Atualmente focada no desenvolvimento Front-End com React e Vue.js.  
-🚀 Em constante aprendizado e evolução — motivada por desafios e pela vontade de impactar positivamente com o código.
+💜 Sou apaixonada por Desenvolvimento Web e atuo com tecnologias como HTML | CSS | JavaScript | React | PHP | MySQL | GitHub. Aplico boas práticas de SEO voltadas para desempenho e visibilidade online.
+
+🎯 Essas são as ferramentas que utilizo para criar soluções web funcionais e eficientes. Gosto de aprender coisas novas e estou em constante evolução. 
+
+🚀 Pegar um projeto do zero, ver ele tomando forma e chegando ao ar é algo que realmente me motiva! Atualmente, curso Sistemas para Internet na graduação, o que tem ampliado meus conhecimentos e reforçado o meu compromisso em uma carreira sólida e de excelência na área do Desenvolvimento Web.
 
 ---
 
 ### 🛠️ Tecnologias que utilizo:
-HTML | CSS | JavaScript | React | Vue | GitHub
+HTML | CSS | JavaScript | React | PHP | MySQL | GitHub
 
 ---
 
 ### 🌐 Portfólio Web:
-https://portfolioelainetavares.vercel.app/ — conheça mais sobre mim, meus projetos e trajetória.
+https://elainetavaresweb.com — Conheça mais sobre mim, meus projetos e trajetória.
 
 ---
 
