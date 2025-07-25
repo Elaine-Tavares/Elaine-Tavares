@@ -19,8 +19,8 @@ https://elainetavaresweb.com — Conheça mais sobre mim, meus projetos e trajet
 ---
 
 ### 📫 Vamos nos conectar?
-- ✉️ elainetavares.developer@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/elaine-tavares-b5797b1b0/
+- ✉️ contato@elainetavaresweb.com
+- 💼 LinkedIn: https://www.linkedin.com/in/elainetavaresweb/
 
 ---
 
